@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstSteps
 {
+    // Class bank
     internal class Bank
     {
         public string BankName;
